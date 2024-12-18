@@ -3,7 +3,6 @@ import tensorflow as tf
 import numpy as np
 import cv2
 import os
-from dotenv import load_dotenv
 import PIL.Image
 import io
 import requests
