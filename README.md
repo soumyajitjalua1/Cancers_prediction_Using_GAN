@@ -21,8 +21,8 @@ Welcome to the Advanced Medical Image Analysis System, a Streamlit-based applica
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/soumyajitjalua1/Cancers_prediction_Using_GAN.git
+   cd Cancers_prediction_Using_GAN
 
 2. Install dependencies:
    ```bash
